@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am vybraan!
 
 [Twitter Follow](https://img.shields.io/twitter/follow/vybraan?style=social)
 
@@ -8,15 +8,15 @@ bio
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="JavaScript Logo" width="50" height="50"/>			<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="JavaScript Logo" width="50" height="50"/>			<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="CSS Logo" width="50" height="50"/>	    <!--    	<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="CSS Logo" width="50" height="50"/> -->
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<vybraan>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![vybraan's GitHub stats](https://github-readme-stats.vercel.app/api?username=<vybraan>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![vybraan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vybraan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
