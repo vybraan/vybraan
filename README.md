@@ -1,4 +1,4 @@
-## &nbsp; Hi guys my name is [vybraan](https://github.com/vybraan); 
+## &nbsp; Hi guys, I'm [vybraan](https://github.com/vybraan); 
 ### I am Network Specialist and Software Engineering Student;
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
