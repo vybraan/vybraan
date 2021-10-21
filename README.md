@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AiltonBauque)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vybraan)
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=vybraan&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&langs_count=8&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=vybraan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&langs_count=8&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
