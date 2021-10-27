@@ -1,5 +1,13 @@
-## &nbsp; Hi guys, I'm [vybraan](https://github.com/vybraan); 
-### I am Network Specialist and Software Engineering Student;
+
+## Hi guys, I'm [vybraan](https://github.com/vybraan); 
+# [vybraan](https://github.com/vybraan), an ArchChad.
++ Aspiring Pro Developer,
++ Linux User (full time),
++ Software Engineering Student,
++ Networking Enthusiast,
++ Astrophysics lover,
++ Living in 11 dimensions;
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AiltonBauque)
@@ -17,6 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 <!--aa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
