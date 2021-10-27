@@ -34,7 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 -->
 ---
-## projects
+## Projects
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
@@ -43,7 +43,7 @@
 |   3  |[i3 Window Manager configs](https://github.com/vybraan/i3wm)| Shell |
 
 <br>
-### 🧰 Toolbox
+### Toolbox  🧰 
 
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="JavaScript Logo" width="50" height="50"/>			<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>	   
 
