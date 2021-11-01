@@ -1,6 +1,10 @@
 
 ## Hi guys, I'm [vybraan](https://github.com/vybraan); 
 # [vybraan](https://github.com/vybraan), an ArchChad.
+
+Ola, sou Ailton Bauque um Astro Fisico amador, Aspirante Desenvolvedor de Software, Entusiasta de Redes de Computadores, e amante de Sistemas Operativos e usuario de Linux.
+
+I'm an amator on software development, my focus is desktop development and DevOps. My main strenghts are Operating Systems with experience with almost most popular unix systems, Linux (Debian GNU/Linux, Ubuntu GNU/Linux, Arch Linux, Manjaro Linux, Kali Linux, Fedora Linux, Parrot OS, Tiny Core, SliTaz GNU/Linux, Q4OS, Porteus... and more), BSD (Free BSD, DragonFly BSD only but on the precess of testing more...) and finally but not leat  Microsoft Windows (Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Vista, Windows XP and willing to test more older versions of it.)
 + Aspiring Pro Developer,
 + Linux User (full time),
 + Software Engineering Student,
