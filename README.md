@@ -1,5 +1,5 @@
 
-## Hi guys, I'm [vybraan](https://github.com/vybraan); 
+## Hi ,[vybraan](https://github.com/vybraan) here; 
 # [vybraan](https://github.com/vybraan), an ArchChad.
 
 + Aspiring Pro Developer,
@@ -8,10 +8,11 @@
 + Networking Enthusiast,
 + Astrophysics lover,
 + Living in 11 dimensions;
++ DevOp Student
 
-Ola, sou Aílton Baúque  um Astro Fisico amador, Aspirante Desenvolvedor de Software, Entusiasta de Redes de Computadores, e amante de Sistemas Operativos e usuario de Linux.
+Ola, sou Aílton Baúque  um Astro Fisico amador, Aspirante Desenvolvedor de Software, Entusiasta de Redes de Computadores, e amante de Sistemas Operativos.
 
-I'm an amator on software development, my focus is desktop development and DevOps. My main strenghts are Operating Systems with experience with almost most popular unix systems, Linux (Debian GNU/Linux, Ubuntu GNU/Linux, Arch Linux, Manjaro Linux, Kali Linux, Fedora Linux, Parrot OS, Tiny Core, SliTaz GNU/Linux, Q4OS, Porteus... and more), BSD (Free BSD, DragonFly BSD only but on the precess of testing more...) and finally but not leat  Microsoft Windows (Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Vista, Windows XP and willing to test more older versions of it).
+I'm an amator on software development, my focus is desktop development and DevOps. My main strenghts are Operating Systems with experience with almost most popular unix systems, Linux (Debian GNU/Linux, Ubuntu GNU/Linux, Arch Linux, Manjaro Linux, Kali Linux, Fedora Linux, Parrot OS, Tiny Core, SliTaz GNU/Linux, Q4OS, Porteus... and more), BSD (Free BSD, DragonFly BSD only but on the precess of testing more...) and finally but not least  Microsoft Windows (Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Vista, Windows XP and not willing to test more older versions of it).
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
@@ -33,6 +34,7 @@ I'm an amator on software development, my focus is desktop development and DevOp
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 <!--aa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
