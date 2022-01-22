@@ -20,6 +20,7 @@ I'm an amator on software development, my focus is desktop development and DevOp
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vybraan)
 [![GitLab](https://img.shields.io/badge/Gitlab-123456?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vybraan)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=vybraan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
