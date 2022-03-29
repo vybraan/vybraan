@@ -21,7 +21,8 @@ I'm an amator on software development, my focus is desktop development and DevOp
 [![GitLab](https://img.shields.io/badge/Gitlab-123456?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vybraan)
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=vybraan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&layout=compact&langs_count=7&theme=dracula"/>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ##
