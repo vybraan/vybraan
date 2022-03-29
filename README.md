@@ -44,7 +44,6 @@ I'm an amator on software development, my focus is desktop development and DevOp
 ![PHP](https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--aa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -68,3 +67,6 @@ I'm an amator on software development, my focus is desktop development and DevOp
 
 ### Buy me a Coffee
 <p><a href="https://www.buymeacoffee.com/vybraan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="codinglayla" /></a></p><br><br>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
