@@ -43,6 +43,8 @@ I'm an amator on software development, my focus is desktop development and DevOp
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
+ 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--aa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -51,13 +53,13 @@ I'm an amator on software development, my focus is desktop development and DevOp
 -->
 ---
 ## Projects
-<!--
+
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
 |   1  |[Newton's Binomial Calculator](https://github.com/vybraan/calculator)| Java |
 |   2  |[Music Player](#)| Java|
 |   3  |[i3 Window Manager configs](https://github.com/vybraan/i3wm)| Shell |
--->
+
 <br>
 <!-- ### Toolbox  🧰 
 
