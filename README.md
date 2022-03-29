@@ -63,10 +63,11 @@ I'm an amator on software development, my focus is desktop development and DevOp
 <!-- ### Toolbox  🧰 
 
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="JavaScript Logo" width="50" height="50"/>			<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>	    -->
-
+<!-- 
 
 ### Buy me a Coffee
 <p><a href="https://www.buymeacoffee.com/vybraan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="codinglayla" /></a></p><br><br>
+  -->
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
