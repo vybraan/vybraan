@@ -48,6 +48,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-E7392C?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3AAAA9?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DD382?style=flat-square&logo=android&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KaliLinux-2674F7?style=flat-square&logo=kalilinux&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-00D1F7?style=flat-square&logo=react&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-A3A3A3?style=flat-square&logo=json&logoColor=grey)
+![Git](https://img.shields.io/badge/Git-080618?style=flat-square&logo=git&logoColor=Rust%20Red)
 
 <!--aa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
