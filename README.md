@@ -10,11 +10,6 @@
 + Living in 11 dimensions;
 + DevOp Student
 
-Ola, sou Aílton Baúque  um Astro Fisico amador, Aspirante Desenvolvedor de Software, Entusiasta de Redes de Computadores, e amante de Sistemas Operativos.
-
-I'm an amator on software development, my focus is desktop development and DevOps. My main strenghts are Operating Systems with experience with almost most popular unix systems.
-
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AiltonBauque)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vybraan)
@@ -25,11 +20,15 @@ I'm an amator on software development, my focus is desktop development and DevOp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&langs_count=3&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
+
+<!--
 <div align="center">
   <a href="https://github.com/vybraan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vybraan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+-->
+
 
 
 ##
