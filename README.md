@@ -1,7 +1,8 @@
 
-## Hi ,[vybraan](https://github.com/vybraan) here; 
+## Hi ,[Aílton Baúque](https://github.com/vybraan) here; 
 # [vybraan](https://github.com/vybraan), an ArchChad.
 
+####About me
 + Aspiring Pro Developer,
 + Linux User (full time),
 + Software Engineering Student,
@@ -32,7 +33,7 @@
 
 
 ##
-<h3><b><samp>My Skills and Languages</samp></b></h3>
+<h3><b><samp>Technologies</samp></b></h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
@@ -41,8 +42,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=Linux&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-9C75D5?style=flat-square&logo=CSharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EFD81D?style=flat-square&logo=javascript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E7392C?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3AAAA9?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
 
- 
 <!--aa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
