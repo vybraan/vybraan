@@ -79,5 +79,7 @@
 <p><a href="https://www.buymeacoffee.com/vybraan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="codinglayla" /></a></p><br><br>
   -->
  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=vybraan&theme=gotham&hide_border=true&area=true)
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+  <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/-->
