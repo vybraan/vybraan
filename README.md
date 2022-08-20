@@ -33,6 +33,10 @@
 ![A](https://raw.githubusercontent.com/vybraan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![A](https://raw.githubusercontent.com/vybraan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+<!--div align="center">
+<img src="https://github.com/vybraan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/vybraan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</div -->
 
 
 ##
@@ -85,7 +89,7 @@
  
  
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=vybraan&theme=gotham&hide_border=true&area=true)
-                  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
  
 
