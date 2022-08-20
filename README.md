@@ -23,12 +23,15 @@
 
 
 
-<div align="center">
+<!-- div align="center">
   <a href="https://github.com/vybraan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vybraan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybraan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</div>
+</div -->
 
+
+![A](https://raw.githubusercontent.com/vybraan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![A](https://raw.githubusercontent.com/vybraan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
