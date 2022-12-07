@@ -1,9 +1,12 @@
 
-## Hi ,[Aílton Baúque](https://github.com/vybraan) here; 
+## Hi ,[See All](https://github.com/vybraan) here;
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+ExtraBold&weight=800&size=32&pause=1000&width=445&lines=Hi+mates%2C+Vybraan+Here;FullTime+Linux+User;Explore+at+your+will;Hope+you+find+what+you're+looking+for)](https://git.io/typing-svg)
+
 # [vybraan](https://github.com/vybraan), an ArchChad.
 ## Checkout my gitlab for some awsome projects [vybraan(GitLab)](https://gitlab.com/vybraan)
-#### About me
 
+#### About me
 + Aspiring Pro Developer,
 + Linux User (full time),
 + Software Engineering Student,
@@ -40,8 +43,7 @@
 </div -->
 
 
-##
-<h3><b><samp>Technologies</samp></b></h3>
+## <h3><b><samp>Languages and Tools</samp></b></h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
@@ -78,21 +80,21 @@
 |   3  |[i3 Window Manager configs](https://github.com/vybraan/i3wm)| Shell |
 
 <br> -->
-<!-- ### Toolbox  🧰 
+### Toolbox  🧰 
 
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="JavaScript Logo" width="50" height="50"/>			<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>	    -->
-<!-- 
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="JavaScript Logo" width="50" height="50"/>			<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>	 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
-### Buy me a Coffee
+
+
+ ### Buy me a Coffee
 <p><a href="https://www.buymeacoffee.com/vybraan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="codinglayla" /></a></p><br><br>
-  -->
  
  
  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=vybraan&theme=gotham&hide_border=true&area=true)
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Contribution](https://activity-graph.herokuapp.com/graph?username=vybraan&theme=gotham&hide_border=true&area=true) -->
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
  
 
 
-  <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/-->
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
