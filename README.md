@@ -1,5 +1,5 @@
 
-## Hi ,[See All](https://github.com/vybraan) here;
+## Hi, [See All](https://github.com/vybraan) here;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+ExtraBold&weight=800&size=32&pause=1000&width=445&lines=Hi+mates%2C+Vybraan+Here;FullTime+Linux+User;Explore+at+your+will;Hope+you+find+what+you're+looking+for)](https://git.io/typing-svg)
 
