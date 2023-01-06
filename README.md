@@ -1,19 +1,17 @@
+## Hi, [Welcome](https://github.com/vybraan) here;
 
-## Hi, [See All](https://github.com/vybraan) here;
+Me, Ailton Bauque, I am a professional Software Developer and System Administrator with experience of extended use of unix-like system.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+ExtraBold&weight=800&size=32&pause=1000&width=445&lines=Hi+mates%2C+Vybraan+Here;FullTime+Linux+User;Explore+at+your+will;Hope+you+find+what+you're+looking+for)](https://git.io/typing-svg)
-
-# [vybraan](https://github.com/vybraan), an ArchChad.
-## Checkout my gitlab for some awsome projects [vybraan(GitLab)](https://gitlab.com/vybraan)
+## An ArchChad. | [vybraan(GitLab)](https://gitlab.com/vybraan)
 
 #### About me
-+ Aspiring Pro Developer,
++ Software Developer,
 + Linux User (full time),
-+ Software Engineering Student,
++ Cyber Security Student,
 + Networking Enthusiast,
 + Astrophysics lover,
 + Living in 11 dimensions;
-+ DevOp Student
++ DevOps Student
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AiltonBauque)
@@ -80,15 +78,18 @@
 |   3  |[i3 Window Manager configs](https://github.com/vybraan/i3wm)| Shell |
 
 <br> -->
+<!--
+
 ### Toolbox  🧰 
 
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="JavaScript Logo" width="50" height="50"/>			<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="CSS Logo" width="50" height="50"/>		<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>	 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
+-->
 
 
- ### Buy me a Coffee
+<!--  ### Buy me a Coffee
 <p><a href="https://www.buymeacoffee.com/vybraan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="codinglayla" /></a></p><br><br><br>
- 
+ -->
  
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vybraan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
