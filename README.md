@@ -4,8 +4,6 @@ Me, Ailton Bauque, I am a professional Software Developer and System Administrat
 
 ## An ArchChad. | [vybraan(GitLab)](https://gitlab.com/vybraan)
 
-### Email: ailtonbauque@outlook.com
-
 #### About me
 + Software Developer,
 + Linux User (full time),
@@ -14,6 +12,8 @@ Me, Ailton Bauque, I am a professional Software Developer and System Administrat
 + Astrophysics lover,
 + Living in 11 dimensions;
 + DevOps Student
+###### Email: 
+ailtonbauque@outlook.com
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AiltonBauque)
