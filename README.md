@@ -1,6 +1,6 @@
-## Hi, [Welcome](https://github.com/vybraan) here;
+## Hi, [Welcome](https://github.com/vybraan) TO MY SPACE;
 
-Me, Ailton Bauque, I am a professional Software Developer and System Administrator with experience of extended use of unix-like system.
+Hi, I’m Ailton Baúque! I’m a software developer with in-depth passion in web development. In a nutshell, I create websites, apps and design softwares. I manage everything from development to web hosting and security architecture. I’m a lifelong learner, currently taking a course on Software Testing, learning and embracing devops culture and love to read, run, and walk around Maputo City.
 
 ## An ArchChad. | [vybraan(GitLab)](https://gitlab.com/vybraan)
 
