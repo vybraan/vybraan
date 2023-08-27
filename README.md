@@ -16,7 +16,6 @@ Hi, I’m Ailton Baúque! I’m a software developer with in-depth passion in we
 ##### WEBSITE: [ailtonbauque.vercel.app](https://ailtonbauque.vercel.app)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AiltonBauque)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vybraan)
 [![GitLab](https://img.shields.io/badge/Gitlab-123456?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vybraan)
 [![Medium](https://img.shields.io/badge/Medium-49be25?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vybraan)
