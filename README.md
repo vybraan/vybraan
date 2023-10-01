@@ -1,7 +1,7 @@
-## Hi, [Welcome](https://github.com/vybraan) TO MY SPACE;
+<!--## Hi, [Welcome](https://github.com/vybraan) TO MY SPACE;
 
 Hi, I’m Ailton Baúque! I’m a software developer with in-depth passion in web development. In a nutshell, I create websites, apps and design softwares. I manage everything from development to web hosting and security architecture. I’m a lifelong learner, currently taking a course on Software Testing, learning and embracing devops culture and love to read, run, and walk around Maputo City.
-
+-->
 ## An ArchChad. | [vybraan(GitLab)](https://gitlab.com/vybraan)
 
 #### About me
@@ -12,7 +12,6 @@ Hi, I’m Ailton Baúque! I’m a software developer with in-depth passion in we
 + Astrophysics lover,
 + Living in 11 dimensions;
 + DevOps Student
-###### Email: ailtonbauque@outlook.com
 <!--##### WEBSITE: [ailtonbauque.vercel.app](https://ailtonbauque.vercel.app)-->
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vybraan)
@@ -43,7 +42,7 @@ Hi, I’m Ailton Baúque! I’m a software developer with in-depth passion in we
 <img src="https://github.com/vybraan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </div -->
 
-
+<!--
 ## <h3><b><samp>Languages and Tools</samp></b></h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -64,6 +63,21 @@ Hi, I’m Ailton Baúque! I’m a software developer with in-depth passion in we
 ![ReactJS](https://img.shields.io/badge/ReactJS-00D1F7?style=flat-square&logo=react&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-A3A3A3?style=flat-square&logo=json&logoColor=grey)
 ![Git](https://img.shields.io/badge/Git-080618?style=flat-square&logo=git&logoColor=Rust%20Red)
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--aa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
