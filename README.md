@@ -19,7 +19,7 @@ Hi, I’m Ailton Baúque! I’m a software developer with in-depth passion in we
 [![GitLab](https://img.shields.io/badge/Gitlab-123456?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vybraan)
 [![Medium](https://img.shields.io/badge/Medium-49be25?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vybraan)
 [![REDIT](https://img.shields.io/badge/RedIt-ff0000?style=for-the-badge&logo=medium&logoColor=white)](https://redit/u/vybraan)
- <a href="https://www.linkedin.com/in/ailton-bauque-975458230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/ailtonbauque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!-- [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=vybraan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
